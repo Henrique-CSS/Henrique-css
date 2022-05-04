@@ -19,6 +19,3 @@ Here are some ideas to get you started:
  - I'm like to make everything in every language (specialy ASM, HTML, C#, C and Python
  - I try my better in every language
  - I study CyberSec by my own
-
-# My dev card
-<a href="https://app.daily.dev/Henrique_css"><img src="https://api.daily.dev/devcards/df02c402fa6e4cbf9e0816f0f7e23a67.png?r=ke6" width="400" alt="Henrique S. Oliveira's Dev Card"/></a>
