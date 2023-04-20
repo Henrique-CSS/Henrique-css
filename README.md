@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ## I'm Henrique and
  - 🚀 I like to make everything in every language (specialy ASM, HTML, C#, C and Python)
- - 😄 I try my better in every language
+ - 😄 I try my best in every language
  - 👨‍💻 I study CyberSec by my own
  - 👀 Pronouns: He/His
